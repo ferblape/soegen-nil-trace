@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  kemal:
+    github: sdogruyol/kemal
+    commit: 7b85aa2b456d0accd24bd0fa651c926a103e0ece
+
+  soegen:
+    github: Ragmaanir/soegen
+    commit: 48bc93331ee11a13bbfde186bf87eecf86d6c19e
+

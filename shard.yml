@@ -1,0 +1,15 @@
+name: soegen-nil-trace
+version: 0.1.0
+
+dependencies:
+  soegen:
+    github: Ragmaanir/soegen
+    branch: master
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+
+authors:
+  - Fernando Blat <ferblape@gmail.com>
+
+license: MIT
